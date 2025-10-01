@@ -1,4 +1,4 @@
-A simple yet powerful Live Weather Application built with HTML, CSS, and JavaScript that fetches real-time weather data using a public Weather API. The app displays current weather conditions, temperature, air quality index (AQI), humidity, pressure, sunrise & sunset times, and a 5-day forecast for any city entered by the user.
+A Simple yet powerful Live Weather Application built with HTML, CSS, and JavaScript that fetches real-time weather data using a public Weather API. The app displays current weather conditions, temperature, air quality index (AQI), humidity, pressure, sunrise & sunset times, and a 5-day forecast for any city entered by the user.
 
 
 🚀 Features
@@ -48,26 +48,6 @@ Weather API (e.g., OpenWeatherMap or similar)
 
 4. A 5-day forecast is also shown
 
-
-
-
-
-📦 Installation & Setup
-
-1. Clone the repository
-
-git clone https://github.com/your-username/weather-app.git
-
-
-2. Open the folder in your code editor
-
-
-3. Add your Weather API Key inside the script.js file
-
-const API_KEY = "your_api_key_here";
-
-
-4. Open index.html in your browser
 
 
 
