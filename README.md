@@ -28,11 +28,10 @@ Weather API (e.g., OpenWeatherMap or similar)
 
 
 
-📷 Screenshots  
+📷 Demo Review
 
 
-
-(Include the screenshot you shared here after uploading it to your GitHub repo)
+![image alt](https://github.com/tejaswariravulu2001-prog/Live-Weather--/blob/cfef012d389a2fd2179f43aa1431e1de3461bce8/live%20weather%20ss.png)
 
 
 
@@ -73,7 +72,6 @@ const API_KEY = "your_api_key_here";
 
 
 
----
 
 🔑 API Reference
 
@@ -83,7 +81,7 @@ You need to sign up and generate a free API key.
 
 
 
----
+
 
 🌟 Future Improvements
 
@@ -97,19 +95,11 @@ Save recent searches in localStorage
 
 
 
----
 
 👨‍💻 Author
 
 Developed by [Ravulu Tejaswari]
 
-GitHub: [Your Profile Link]
+GitHub: [(https://github.com/tejaswariravulu2001-prog/)]
 
-
-
----
-
-👉 This README will make your GitHub project look professional and help others understand and use your weather app.
-
-Do you want me to also create a professional README.md file with proper Markdown styling (headings, code blocks, badges, etc.) so you can directly upload it to your GitHub repo?
 
